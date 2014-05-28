@@ -8,6 +8,7 @@ var photoList = [
     {src: "img/front.png", title: "前"},
     {src:	"img/side.png", title: "横"},
     {src:   "img/fox.jpg", title: "リアル"},
+    //ここに新しい画像を呼び出すような関数を追加し、lecture7のファイルにあるimgにその画像を追加することでしっかりと表示されるようになる。
 ];
 
 var isReady = function(){
